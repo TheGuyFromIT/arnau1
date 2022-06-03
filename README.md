@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arnau1
-- 👀 I’m interested in Azure, Liunx & Infrastructure
+- 👀 I’m interested in Azure, Linux & Infrastructure
 - 🌱 I’m currently learning Azure Tecnologies
 
 <!---
